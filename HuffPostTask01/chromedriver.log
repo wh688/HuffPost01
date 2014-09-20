@@ -1,0 +1,16 @@
+[0.000][INFO]:      ChromeDriver 26.0.1383.0 C:\Users\HWT\workspace\HuffPostTask01\chromedriver.exe
+[1.106][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chrome.switches": [  ],
+   "chromeOptions": {
+      "args": [  ],
+      "extensions": [  ]
+   },
+   "platform": "ANY",
+   "version": ""
+}
+
+[1.106][INFO]:      Launching chrome: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --disable-background-networking --disable-sync --disable-translate --disable-web-resources --safebrowsing-disable-auto-update --safebrowsing-disable-download-protection --disable-client-side-phishing-detection --disable-component-update --disable-default-apps --enable-logging --log-level=1 --ignore-certificate-errors about:blank
+[31.108][SEVERE]:   Failed to initialize connection
+[41.165][WARNING]:  Chrome still running, terminating...
+[41.165][INFO]:     Chrome shutdown
